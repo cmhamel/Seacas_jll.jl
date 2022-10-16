@@ -1,21 +1,4 @@
 [[Seacas]]
-arch = "aarch64"
-git-tree-sha1 = "cf9b3dde0cb9c057cd41dfb457e008abe3addccb"
-os = "macos"
-
-    [[Seacas.download]]
-    sha256 = "1a4b070415176867c8592f24088ad4a76674c10a94d7db753f1e6e31bd0b2f62"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.1+0/Seacas.v0.1.1.aarch64-apple-darwin.tar.gz"
-[[Seacas]]
-arch = "aarch64"
-git-tree-sha1 = "0f9791ab426edb7bb7870253082cacf068639d69"
-libc = "glibc"
-os = "linux"
-
-    [[Seacas.download]]
-    sha256 = "aad9eed4dd63889182105de9217208037c98f70dd317a0a4c8148d56f27c7f92"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.1+0/Seacas.v0.1.1.aarch64-linux-gnu.tar.gz"
-[[Seacas]]
 arch = "i686"
 git-tree-sha1 = "5aa2953b77c2414273ca3c54e75c10d0fae30dae"
 os = "windows"
@@ -25,26 +8,43 @@ os = "windows"
     url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.1+0/Seacas.v0.1.1.i686-w64-mingw32.tar.gz"
 [[Seacas]]
 arch = "x86_64"
-git-tree-sha1 = "759c3c6d9032e6776b59e8a8acdddf76a6d4b52c"
-os = "macos"
-
-    [[Seacas.download]]
-    sha256 = "f457d8cbf5f81bc0a9d2e3913d812575f150b0f25ed763fdac8dc77e193f93fa"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.1+0/Seacas.v0.1.1.x86_64-apple-darwin.tar.gz"
-[[Seacas]]
-arch = "x86_64"
-git-tree-sha1 = "e34ac2b94c7a4bbfdc35e3f62209a4be944808c1"
-libc = "glibc"
-os = "linux"
-
-    [[Seacas.download]]
-    sha256 = "0ba87286875fb416ea1bee0bf9868646c671579291b789084a8aea0d9a113867"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.1+0/Seacas.v0.1.1.x86_64-linux-gnu.tar.gz"
-[[Seacas]]
-arch = "x86_64"
 git-tree-sha1 = "795f91a71ad10ecde940183324841fcdebc48257"
 os = "windows"
 
     [[Seacas.download]]
     sha256 = "7c1c5c7f18687e8f11845e843a13b8da019e62019be3fb8c1140ae81eec5f34e"
     url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.1+0/Seacas.v0.1.1.x86_64-w64-mingw32.tar.gz"
+[[Seacas]]
+arch = "aarch64"
+git-tree-sha1 = "ec31ebc5962d6058e99392561abfbb366fed4c53"
+os = "macos"
+
+    [[Seacas.download]]
+    sha256 = "2a4cc990a6e9e08de222a0881d2bb03adc3e6d6068f3f61570bf23b37910fe75"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.2+0/Seacas.v0.1.2.aarch64-apple-darwin.tar.gz"
+[[Seacas]]
+arch = "aarch64"
+git-tree-sha1 = "4650f047a87dd593f46b367d5d350c03cd150823"
+libc = "glibc"
+os = "linux"
+
+    [[Seacas.download]]
+    sha256 = "69811b388cdfd4369ee3db53d9e1e82164951d4fb7a7e17ff62c2edebc9323e3"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.2+0/Seacas.v0.1.2.aarch64-linux-gnu.tar.gz"
+[[Seacas]]
+arch = "x86_64"
+git-tree-sha1 = "32b5945bfd2f14418212d419c72240786eb2f049"
+os = "macos"
+
+    [[Seacas.download]]
+    sha256 = "f6c10ac0f61d32be3dbf1805bf3960bc03fd41d3096d801777fd5bd404e4da21"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.2+0/Seacas.v0.1.2.x86_64-apple-darwin.tar.gz"
+[[Seacas]]
+arch = "x86_64"
+git-tree-sha1 = "92e3fc16507d4227cdd1a871ccd1e32509a6cfd6"
+libc = "glibc"
+os = "linux"
+
+    [[Seacas.download]]
+    sha256 = "2bacb6c87516cc953c902b27ea79fe11d845d4aa4b4b81c33fae7c726e1984c8"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.2+0/Seacas.v0.1.2.x86_64-linux-gnu.tar.gz"
