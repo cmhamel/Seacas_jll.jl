@@ -80,7 +80,8 @@ os = "windows"
     url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.i686-w64-mingw32-cxx11.tar.gz"
 [[Seacas]]
 arch = "x86_64"
-git-tree-sha1 = "c543cf1873ba8b9f072111bddfe8d413b1fa4ca5"
+#git-tree-sha1 = "c543cf1873ba8b9f072111bddfe8d413b1fa4ca5"
+git-tree-sha1 = "cd16cd06c30565dcc15bcc7040da2acad79a7e6e"
 os = "macos"
 
     [[Seacas.download]]
