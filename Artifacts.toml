@@ -34,94 +34,93 @@ os = "windows"
     url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.5+0/Seacas.v0.1.5.x86_64-w64-mingw32.tar.gz"
 [[Seacas]]
 arch = "aarch64"
-git-tree-sha1 = "8c62c783e58ac62d2d77a8d38402d744f00cab77"
+git-tree-sha1 = "b209064bf500420bf65edf80622711ff6c0720a1"
 os = "macos"
 
     [[Seacas.download]]
-    sha256 = "a106c5d77a016d4a7dff41d21358d491f0345f98b2907fedc3141635c005c1a1"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.aarch64-apple-darwin.tar.gz"
+    sha256 = "c95fd30fa63ee0c0aac97db7411b2e7624afa57dfe4c3c60e7433ce6418cd970"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.aarch64-apple-darwin.tar.gz"
 [[Seacas]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81373a79eca1b9d966f105da2a775361dfd5daed"
+git-tree-sha1 = "2776c7eff8aa55b008f1a5afc09e0e0fee9f3a6c"
 libc = "glibc"
 os = "linux"
 
     [[Seacas.download]]
-    sha256 = "d4adc2b5653ae224a781740a08b7d552e8353cdb538d09a186b48044b9c68481"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "722116ac4eb71db8c7070fc642729f0723541f24998565fc37953b885bdd494f"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.aarch64-linux-gnu-cxx03.tar.gz"
 [[Seacas]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bea9ca120f208a8e23253016fe13782c386e632f"
+git-tree-sha1 = "df23262ddc0d08d423c47ff26c36f3b06563f3d3"
 libc = "glibc"
 os = "linux"
 
     [[Seacas.download]]
-    sha256 = "6eb39bc771a817c105b6cd24643a6a138ead470e6b3894c65e30addff7ef68fd"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "d5f0deec08b436598f8adc20976a5b3a15b11772f1c3afc73130a2d8422b8ddb"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.aarch64-linux-gnu-cxx11.tar.gz"
 [[Seacas]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "063167a168fa278ad7ec5d6c1a8e9a18eb29acc7"
+git-tree-sha1 = "41784e113eb3e990f04a2b4ef6d59855471a7981"
 os = "windows"
 
     [[Seacas.download]]
-    sha256 = "1e9a8b42cfb9dab638600c3330c54356fd465cec64380d3b8b966caa9ac5064a"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a4d3a278409c6d6361d386b67b11085c2c9788c329722e8ed72d481eac365980"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.i686-w64-mingw32-cxx03.tar.gz"
 [[Seacas]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fb8ead7892f180e3cdf85d17936c6a3c37173818"
+git-tree-sha1 = "dc5a6f1aeb435e7a9e09cb8ac801f590e8f63ffe"
 os = "windows"
 
     [[Seacas.download]]
-    sha256 = "060c39c09f6f4911aaa47cbbee22f8240d670c593ca49e27d8337307d1894cc8"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "1363f21da8defe8839a4e83e913d505f99df934eaf1893fd46937e99a23e571f"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.i686-w64-mingw32-cxx11.tar.gz"
 [[Seacas]]
 arch = "x86_64"
-#git-tree-sha1 = "c543cf1873ba8b9f072111bddfe8d413b1fa4ca5"
-git-tree-sha1 = "cd16cd06c30565dcc15bcc7040da2acad79a7e6e"
+git-tree-sha1 = "577c1c09489b435c934ae6f804d9d9c6c1feb9f6"
 os = "macos"
 
     [[Seacas.download]]
-    sha256 = "292d88842bd3a2b3486960d285f26ac54dc92497f7909ddc75dbbea8aaf18e65"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.x86_64-apple-darwin.tar.gz"
+    sha256 = "89ea63ca06671ed64b1e07c08cae4aaf786545c93268b24f43b3a9fa91fa9f5f"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.x86_64-apple-darwin.tar.gz"
 [[Seacas]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9e444c3d5443ace087fbd31a3aa6982d195a042d"
+git-tree-sha1 = "26170351aef7b0a65195a31bec30e5ecb1f888fd"
 libc = "glibc"
 os = "linux"
 
     [[Seacas.download]]
-    sha256 = "663afc4df6d8da62be78b5b3ffd5cdb7c7db473c461dccbf85d2686e539a7438"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "2acdc71ed5e04cd403fb4445aed1928b99da16b93021cade0ee3abde8bc1dfd7"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.x86_64-linux-gnu-cxx03.tar.gz"
 [[Seacas]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8c4376a014f03d4edf0dfaaef02d27c40834d667"
+git-tree-sha1 = "ad0d48030d95b48a16850d025d310ebd32a03a3e"
 libc = "glibc"
 os = "linux"
 
     [[Seacas.download]]
-    sha256 = "9483a3dc63c018d1508b868fbd9c2d52871a205dbcc9703b0c249efe74dd87bd"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "5ecb3b5045a6a637fcbd42abdd2912ae1eb2cbd6aae27cb1a5b77d80e81f915c"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.x86_64-linux-gnu-cxx11.tar.gz"
 [[Seacas]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "50a3fc26e54bec2aecedc413c7c96224b9145c6f"
+git-tree-sha1 = "44f1f3c1cbf9272eb5f56007b5031c2c18513a81"
 os = "windows"
 
     [[Seacas.download]]
-    sha256 = "e6bf6636ef697e72e33d50d9bc8dd9d53762ca3dff9682c61da0e7c7815f893e"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "ab4e57ee00012fe7855f9cc632104c1bf08d719d5fdcc5cacc326b6fdac4cc60"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Seacas]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "375f8e7f46bb07cbf1c4bff943f38bc8492604e6"
+git-tree-sha1 = "5aea968f0a32081806f02d5fad95b70c271b3f70"
 os = "windows"
 
     [[Seacas.download]]
-    sha256 = "de2e4e249862fe115ae787624e70f8f0f9f0f30f98e352b9454ce8a2e715a25d"
-    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.6+0/Seacas.v0.1.6.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "baedf50e866ad742d93ad04bcd2c75c0bf123a53ddc5b6542463dfef0df86b78"
+    url = "https://github.com/cmhamel/Seacas_jll.jl/releases/download/Seacas-v0.1.7+0/Seacas.v0.1.7.x86_64-w64-mingw32-cxx11.tar.gz"
